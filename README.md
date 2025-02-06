@@ -4,8 +4,13 @@
 
 Principales funcionalidades:
 
-Agregar nombres: Los usuarios pueden añadir nombres a la lista.
-Validación de entrada: Se verifica que el campo no esté vacío antes de agregar un nombre.
-Visualización de la lista: Los nombres se muestran en una lista ordenada.
-Sorteo aleatorio: Se elige un nombre aleatorio de la lista y se muestra el resultado en pantalla.
-Este programa es ideal para organizar juegos o actividades grupales de forma rápida y divertida.
+-Agregar nombres: Los usuarios pueden añadir nombres a la lista.
+
+-Validación de entrada: Se verifica que el campo no esté vacío antes de agregar un nombre.
+
+-Visualización de la lista: Los nombres se muestran en una lista ordenada.
+
+-Sorteo aleatorio: Se elige un nombre aleatorio de la lista y se muestra el resultado en pantalla.
+
+-Este programa es ideal para organizar juegos o actividades grupales de forma rápida y divertida.
+
